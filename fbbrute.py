@@ -27,10 +27,6 @@ __banner__ = """
 """
 
 print("[+] Facebook Brute Force\n")
-userid = raw_input("[*] Enter [Email|Phone|Username|ID]: ")
-try:
-
-			else:
 				print("\n\n[+] Password found .. !!")
 				print("\n[+] Password : {}".format(passwd.strip()))
 				break
